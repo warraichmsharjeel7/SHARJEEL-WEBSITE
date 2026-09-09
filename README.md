@@ -1,2 +1,2 @@
 # WEBSITE
-https://sharjeelwebsite1.netlify.app/
+https://sharjeelwebsite.netlify.app/
